@@ -19,6 +19,8 @@ Deberían estar descargadas y renombradas a centos.qcow2 y ubuntu.qcow2.
 
 Source:
    https://cloud.centos.org/centos/8/x86_64/images/
+   
+   
    https://cloud-images.ubuntu.com/focal/current/focal-server-cloudimg-amd64.img"
 
    
