@@ -34,7 +34,7 @@ resource "docker_container" "wordpress" {
 
   ports {
     internal = 80
-    external = 8080
+    external = 8888
   }
 }
 
